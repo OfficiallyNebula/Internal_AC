@@ -3,8 +3,6 @@
 #include <iostream>
 #include "mem.h"
 
-//https://guidedhacking.com/threads/how-to-hack-any-game-first-internal-hack-dll-tutorial.12142/
-
 DWORD WINAPI HackThread(HMODULE hModule)
 {
 	//Create Console
